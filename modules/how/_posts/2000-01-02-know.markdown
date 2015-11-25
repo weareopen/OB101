@@ -4,9 +4,64 @@ title: Know
 
 # How do I get started issuing Open Badges?
 
-In this section you'll learn to **recognize the difference between different badge issuing platforms**.
+In this section you'll learn to **recognize the difference between various badge issuing platforms**.
 
 <img src="{{ site.baseurl }}/img/visual-thinkery/workforce-pipeline.png" alt="The badge cycle">
+
+## How the Open Badges infrastructure works
+The Open Badges Infrastructure is a decentralised, federated system. This can be a difficult concept to get your head around when you first start thinking about Open Badges.
+
+Perhaps the easiest analogy is to think of the way that email works. When you send an email, it doesn't matter what your email address is, who your provider is, and where in the world you are; it just works. Your message is bounced around various servers and, because they're all using the same protocol, your message eventually reaches your intended recipient.
+
+Similarly, with Open Badges, it doesn't matter who issued the badge. You can choose where you want to store it, so long as the provider adheres to the specification originally laid out by Mozilla, and now maintained/developed by the Badge Alliance.
+
+## Issuing vs. hosting
+Let's continue using the email analogy. When you send an email, you're usually using a program that can also receive email. That is to say that it has dual functionality. However, you can imagine a program that <em>only</em> sends email, or one that <em>receives</em> it.
+
+Likewise, in the Open Badges ecosystem, most platforms both issue badges <strong>and</strong> allow you to store your badges in what is usually known as a 'backpack'. Some platforms, though, <em>only</em> deal with badge issuing, and some <em>only</em> provide a place for you to store your badges.
+
+The Badge Alliance provides a useful, regularly-updated <a href="http://www.badgealliance.org/badge-issuing-platforms/">list of badge issuing platforms</a>. Most of these also offer badge backpack functionality.
+
+## Choosing an issuer
+There are many and varied use cases for Open Badges. There are also a lot of ways of issuing badges. On one end of the scale is building your own bespoke solution that hooks into the Open Badges API:
+
+<img src="{{ site.baseurl }}/img/badge-platform-options.jpg" alt="Placeholder for badge platform options">
+
+On the other end of the scale is using a fully hosted platform. In the middle is using software (free/proprietary) that you can host yourself. Each of these approaches has its benefits and drawbacks.
+
+Once you have decided on an approach, the following five questions should help you evaluate which particular issuing platform might work for you.
+
+1. Does the platform allow you to store badges?
+3. Does the platform include the ability to create the visual design of the badge?
+4. Does the platform allow for multiple badge-issuing?
+
+At the core of the Open Badges ecosystem is <em>portability</em>. Badges issued via one platform should always work with those from another. This is called <strong>interoperability</strong>. Open Badges are valuable because they are portable digital credentials. Similarly, the platform you use to issue and allow users to store their badges should allow portability.
+
+## The importance of openness
+
+Finally, a point about openness. As we saw right at the start of this course when you earned your first badge, there is an important difference between digital badges and open badges. But this difference is not merely a technical difference. It is also a difference in <em>ethos</em>.
+
+This is perhaps most easy to see by returning to the original <a href="http://www.badgealliance.org/wp-content/uploads/2014/06/OpenBadges-Working-Paper_012312.pdf">Open Badges for Lifelong Learning white paper</a>. In the paper, Erin Knight writes:
+
+<blockquote>With the Web and its core principles of openness, universality and transparency, the ways that knowledge is made, shared and valued have been transformed and the opportunities for deeper and relevant learning have been vastly expanded.</blockquote>
+
+That is to say that the web is built with openness baked in. It defaults to fluid knowledge exchange. However, the way that we credential doesn't work like that:
+
+<blockquote>Without a way to capture, promote and transfer all of the learning that can occur within a broader connected learning ecology, we are limiting that ecology by discouraging engaged learning, making critical skills unattractive or inaccessible, isolating or ignoring quality efforts and interactions and ultimately, holding learners back from reaching their potential.</blockquote>
+
+So Open Badges are a way of capturing knowledge, skills, and behaviours in ways that can be verified. They work like the web.
+
+<blockquote>Thus, badges can play a crucial role in the connected learning ecology by acting as a bridge between contexts and making these alternative learning channels, skills and types of learning more viable, portable and impactful.</blockquote>
+
+The important thing about Open Badges is that they are <em>portable</em> digital credentials. Without naming names, there are some platforms that are technically compatible with the Open Badges specification but, nevertheless, make it impossible (or very difficult) for learners to move their badges elsewhere. These platforms are effectively 'enclosing' parts of the Open Badges ecosystem for their own gain.
+
+If you decide to go with a hosted platform, some additional questions to ask are therefore:
+
+5. Does the platform allow badge earners to export their badges to other providers?
+6. Does the platform attempt to lock me in if I want to move between badge issuing platforms?
+7. Does the platform use <a href="https://simple.wikipedia.org/wiki/Free_and_open-source_software">Open Source</a> technology?
+
+The last of these questions is important if the provider suddenly decides to shut its doors, pivot its business model, or decide to massively increase prices. 
 
 <div style="background:#FFBC1A; padding:10px; padding-left:20px; color:white;">
 <h3>Is this page finished?</h3>
