@@ -5,12 +5,26 @@ published: true
 
 # What have I learned so far?
 
-This section involves **formulating an Open Badges proposal**.
+This section involves **formulating an Open Badge proposal**.
 
 <img src="{{ site.baseurl }}/img/visual-thinkery/silver-bullet.png" alt="No Silver Bullet">
+
+## Quick review
+
+During this course you have:
+
+* <a href="{{ site.baseurl }}/modules/what/know/">Compared and contrasted Open Badges and digital badges</a>
+* <a href="{{ site.baseurl }}/modules/what/do/">Earned your first Open Badge and 'pushed' it to a badge backpack</a>
+* <a href="{{ site.baseurl }}/modules/what/reflect/">Found ways to share your badges with the world</a>
+* <a href="{{ site.baseurl }}/modules/why/know/">Identified various ways in which Open Badges can be used</a>
+* <a href="{{ site.baseurl }}/modules/why/do/">Chosen between different types of badge pathway</a>
+* <a href="{{ site.baseurl }}/modules/why/reflect/">Demonstrated ways in which Open Badges could work in your context.</a>
+* <a href="{{ site.baseurl }}/modules/how/know/">Recognised the difference between various badge issuing platforms</a>
+* <a href="{{ site.baseurl }}/modules/how/do/">Learned how to write good badge criteria</a>
+
+<br />
 
 <div style="background:#FFBC1A; padding:10px; padding-left:20px; color:white;">
 <h3>Is this page finished?</h3>
 <p>Why not help improve the course? <strong><a style="background:white; padding:2px;" href="https://github.com/thinkoutloudclub/badge-course/wiki/Help-improve-the-Open-Badges-101-course">Click here</a></strong></p>
 </div>
-
