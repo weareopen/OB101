@@ -17,7 +17,7 @@ Open Badges exist independently of the original context in which they were issue
 
 Whatever the use case of Open Badges, the metadata that is hard-coded into each badge is crucial. This information explains to the badge 'consumer' what the badge earner had to do in order to be issued the badge.
 
-This is where criteria comes in. This metadata field is perhaps the second thing (after the badge image) that the badge consumer will look at. For example, if an employer or admissions officer sees a badge that looks interesting, they are likely to click on it to see just what the earner had to do in order to achieve it.
+This is where criteria comes in. Along with the 'description' metadata, this is perhaps the second thing (after the badge image) that the badge consumer will look at. For example, if an employer or admissions officer sees a badge that looks interesting, they are likely to click on it to see just what the earner had to do in order to achieve it.
 
 Whereas the 'evidence' metadata field is optional in the Open Badges specification, the 'criteria' field is mandatory. In the absence of evidence (perhaps because the badge is low-level or is being issued to a large number of earners) the criteria behind the badge becomes extremely important.
 
@@ -28,13 +28,122 @@ When goal-setting you may have seen the mnenomic <a href="https://en.wikipedia.o
 * <strong>Specific</strong> - what will the badge earner have accomplished by earning this badge?
 * <strong>Measurable</strong> - how will the assessor know when the level at which the badge is awarded has been achieved?
 * <strong>Achievable</strong> - in what ways can the badge be achieved?
-* <strong>Relevant</strong> - is this badge worth earning?
+* <strong>Relevant</strong> - is this badge worth earning? what opportunities does it unlock?
 * <strong>Timely</strong> - should this badge expire after a certain period of time?
 
-In addition, you should think about 'trigger verbs' in the badge criteria. These are indicators of the level at which the badge is operating. A useful way of approaching this is using <a href="https://en.wikipedia.org/wiki/Bloom's_taxonomy">Bloom's Taxonomy</a> &mdash; especially if using a tool such as <a href="http://byrdseed.com/differentiator/">The Differentiator</a>.
+In addition, you should think about 'trigger verbs' in the badge criteria. These are indicators of the 'thinking level' at which the badge is operating. A useful way of approaching this is using <a href="https://en.wikipedia.org/wiki/Bloom's_taxonomy">Bloom's Taxonomy</a> &mdash; especially if using a tool such as <a href="http://byrdseed.com/differentiator/">The Differentiator</a>.
+
+Not all badges, however, involve cognitive skills. For these badges the trigger verbs are less important than capturing the nature of what has been achieved.
 
 
-## Examples of good badge criteria
+## Examples of good badge criteria (and descriptions)
+
+Using the guidance above, let's attempt to create some Open Badges with good criteria.
+
+### Scenario 1: Community volunteer
+
+A community group wants to recognise the efforts of its volunteers. These volunteers give their time, effort (and sometimes money) to help the cause. How could they credential this?
+
+This is a <strong>membership</strong> badge. It's awarded for belonging (and showing commitment) to a particular community.
+
+* **S** - The badge earner has given up a specific amount of time to further the community's mission.
+* **M** - The badge is triggered when the earner reaches 10 hours of volunteering, as measured by signing in books and community member testimonials.
+* **A** - The community occasionally pays people to carry out duties and activities so has decided that these activities do not count towards this 'volunteering' badge.
+* **R** - This badge unlocks the ability for volunteers to book out a community space.
+* **T** - This badge expires after one year. It is also a stepping stone to further badges issued at 20 hours, 50 hours, and 100 hours.
+
+#### Description
+
+This badge is issued to individuals who have volunteered 10 hours of their time to further the community's mission. Recipients of this badge may book out the community's various event spaces.
+
+#### Criteria
+
+To earn this badge, individuals must:
+
+* Volunteer their time for 10 or more hours
+
+This badge, along with community space booking privileges, expires one year after issue. Only unpaid hours count towards this badge.
+
+
+### Scenario 2: Basic digital skills
+
+A charity wants to create a benchmark for basic digital skills. They want to create a badge that demonstrates a particular skill level. How could they credential this?
+
+This is a <strong>capability</strong> badge. It's awarded when an individual reaches a pre-defined standard.
+
+* **S** - The badge earner has shown that they have met all of the criteria listed on the 'standard' created by the charity.
+* **M** - The badge is awarded if at least three people who have already earned that badge positively review the evidence provided by the applicant.
+* **A** - There are multiple ways in which the applicant could reach the criteria laid down in the charity's standard.
+* **R** - This badge allows individuals to show that they have an objectively-verified level of basic digital skills which could be used to enhance their leisure activities or in job applications.
+* **T** - This badge does not expire, but references the basic digital skills 'standard' set out by the charity at a particular moment in time.
+
+#### Description
+
+This badge is issued to those who have achieved a level of basic digital skills as set out in the charity's Skills Standard. Recipients of this badge are 'work ready' in terms of being able to operate safely in a digital environment.
+
+#### Criteria
+
+To earn this badge, individuals must:
+
+* Create a portfolio of evidence showing how they meet each of the criteria set out on the charity's Skills Standard.
+* Have their application reviewed by three people who have already earned this badge.
+
+This badge demonstrates a basic digital skills capability as set out by the standard in force when the badge was issued. This may not be the current version of the Skills Standard.
+
+
+### Scenario 3: Sales award
+
+An organisation wants to motivate its sales force by creating an annual award for its most effective employees. How could they credential this?
+
+This is a <strong>mastery</strong> badge. It's awarded when an individual demonstrates excellence.
+
+* **S** - The badge earner has shown commitment and effectiveness beyond that of his or her peers, measured through a combination of sales numbers and customer satisfaction ratings.
+* **M** - The badge is awarded if an individual has made more than £100,000 in sales and has a customer satisfaction rating of over 90%.
+* **A** - This badge is issued at an annual awards ceremony after being triggered by a tracking spreadsheet.
+* **R** - This badge has currency within the organisation, but also is a useful signal to put on a CV, resumé or profile. It serves as a career boost for sales professionals.
+* **T** - This badge is awarded on a yearly basis, so the visual image and description include an indication of when the badge was awarded.
+
+#### Description
+
+This badge is issued to those who have showed commitment and effectiveness above and beyond that of their peers. The badge was awarded at the 2016 awards ceremony for outstanding performance in the 2015/16 financial year.
+
+#### Criteria
+
+To earn this badge, individuals must:
+
+* Make over £100,000 in confirmed sales
+* Maintain a customer satisfaction rate of over 90%
+
+In order to ensure this is an 'elite' badge, the criteria may change slightly on a yearly basis.
+
+
+### Scenario 4: Event attendance
+
+An NGO wants to provide a badge to prove that individuals attended a specific event. How could they credential this?
+
+This is a <strong>participation</strong> badge. It's awarded when an individual is involved in one or more activities.
+
+* **S** - The badge earner has shown up to an event put on by the NGO.
+* **M** - The badge is awarded if the individual pre-registers and then picks up their name badge on the event.
+* **A** - This badge is issued to those who attend the event in person. It is not awarded to remote participants.
+* **R** - This badge proves to a line manager that an individual attended an event.
+* **T** - This badge can only be achieved by attending one specific event.
+
+#### Description
+
+This badge is issued to those attending the NGO's 2016 annual conference. Recipients of this badge registered and picked up their name badge at the event.
+
+#### Criteria
+
+To earn this badge, individuals must:
+
+* Register for the event
+* Pick up their name badge
+
+This badge is issued to those who attended the event in person only.
+
+
+
 
 <div style="background:#FFBC1A; padding:10px; padding-left:20px; color:white;">
 <h3>Is this page finished?</h3>
