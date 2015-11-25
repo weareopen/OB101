@@ -6,7 +6,7 @@ title: Know
 
 In this section you'll learn to **recognize the difference between various badge issuing platforms**.
 
-<img src="{{ site.baseurl }}/img/visual-thinkery/workforce-pipeline.png" alt="The badge cycle">
+<img src="{{ site.baseurl }}/img/visual-thinkery/badge-platform-questions.png" alt="Badge platform questions">
 
 ## How the Open Badges infrastructure works
 The Open Badges Infrastructure is a decentralised, federated system. This can be a difficult concept to get your head around when you first start thinking about Open Badges.
@@ -61,7 +61,7 @@ If you decide to go with a hosted platform, some additional questions to ask are
 6. Does the platform attempt to lock me in if I want to move between badge issuing platforms?
 7. Does the platform use <a href="https://simple.wikipedia.org/wiki/Free_and_open-source_software">Open Source</a> technology?
 
-The last of these questions is important if the provider suddenly decides to shut its doors, pivot its business model, or decide to massively increase prices. 
+The last of these questions is important if the provider suddenly decides to shut its doors, pivot its business model, or decide to massively increase prices.
 
 <div style="background:#FFBC1A; padding:10px; padding-left:20px; color:white;">
 <h3>Is this page finished?</h3>

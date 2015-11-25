@@ -142,7 +142,11 @@ To earn this badge, individuals must:
 
 This badge is issued to those who attended the event in person only.
 
+## Conclusion
 
+Writing good criteria is difficult at the best of times. Even people working for Assessment Organisations and Examination Board find this less than straightforward. It takes practice.
+
+Using the approach shown above is one way to make writing good badge criteria a little easier. But given time and practice, you'll learn to develop your own style and approach to badge design.
 
 
 <div style="background:#FFBC1A; padding:10px; padding-left:20px; color:white;">
