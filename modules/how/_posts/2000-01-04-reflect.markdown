@@ -22,7 +22,34 @@ During this course you have:
 * <a href="{{ site.baseurl }}/modules/how/know/">Recognised the difference between various badge issuing platforms</a>
 * <a href="{{ site.baseurl }}/modules/how/do/">Learned how to write good badge criteria</a>
 
-<br />
+## How to create an Open Badge proposal
+
+Every organisation works differently. Some will allow you to experiment tomorrow with badges. Others want a fully planned and costed business case. Whatever your situation, it can't hurt to create a simple and straightforward proposal. If not for other people, it will help <em>you</em> understand what you are trying to achieve through your badge(s).
+
+There are many ways you could forumlate this proposal. We're going to use <a href="http://digitalme.co.uk/badgecanvas">DigitalMe's Badge Design Canvas</a> because it's free, easy-to-use, and has been shown in workshop after workshop to produce good results!
+
+<a href="http://digitalme.co.uk/badgecanvas"><img src="{{ site.baseurl }}/img/badge-design-canvas.png" alt="DigitalMe Badge Design Canvas"></a>
+
+The sections are more or less self-explanatory, but you might want some guidance in terms of the <em>order</em> to fill in the boxes. Experience shows that starting with the following boxes quickly leads to positive outcomes:
+
+* Value proposition
+* Users
+* Skills & knowledge
+* Behaviours
+* Evidence
+* Criteria
+
+It's also worth having a think about what the visual design of the badge would look like. Don't <em>start</em> with this, however, as it can constrain your thinking. You might want to jot down some ideas using the <a href="https://thenounproject.com/">Noun Project</a>, <a href="http://fontawesome.io/icons/">Font Awesome</a>, or even just <a href="http://images.google.com">Google Images</a> for inspiration.
+
+## Next steps
+
+This course has taken you from being a badge n00b to understanding how Open Badges work &mdash; and how you can issue your first badge. The next steps are up to you!
+
+You could:
+
+* dig into the <a href="{{ site.baseurl }}/modules/resources/introduction/">Resources section</a> to see the best of what others have done previously
+* join the <a href="{{ site.baseurl }}/modules/discuss/discuss/">Open Badges Google Group</a> to ask questions and find out what others are up to right now
+* help <a href="{{ site.baseurl }}/modules/start/get-involved/">improve this course!</a>
 
 <div style="background:#FFBC1A; padding:10px; padding-left:20px; color:white;">
 <h3>Is this page finished?</h3>
