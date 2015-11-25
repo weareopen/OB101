@@ -11,8 +11,32 @@ In this section you will learn to **write good badge criteria**.
 
 <img src="{{ site.baseurl }}/img/visual-thinkery/prescriptive-descriptive.png" alt="Descriptive vs. Prescriptive pathways">
 
+## The importance of good criteria
+
+Open Badges exist independently of the original context in which they were issued. They may stand alone or part of a collection. They may represent knowledge, skills, or behaviours that are fairly low-level, or those at mastery level.
+
+Whatever the use case of Open Badges, the metadata that is hard-coded into each badge is crucial. This information explains to the badge 'consumer' what the badge earner had to do in order to be issued the badge.
+
+This is where criteria comes in. This metadata field is perhaps the second thing (after the badge image) that the badge consumer will look at. For example, if an employer or admissions officer sees a badge that looks interesting, they are likely to click on it to see just what the earner had to do in order to achieve it.
+
+Whereas the 'evidence' metadata field is optional in the Open Badges specification, the 'criteria' field is mandatory. In the absence of evidence (perhaps because the badge is low-level or is being issued to a large number of earners) the criteria behind the badge becomes extremely important.
+
+## How to write good badge criteria
+
+When goal-setting you may have seen the mnenomic <a href="https://en.wikipedia.org/wiki/SMART_criteria">SMART</a> used, standing for: Specific, Measurable, Achievable, Relevant and Timely. This is also a useful approach to use when writing badge criteria.
+
+* <strong>Specific</strong> - what will the badge earner have accomplished by earning this badge?
+* <strong>Measurable</strong> - how will the assessor know when the level at which the badge is awarded has been achieved?
+* <strong>Achievable</strong> - in what ways can the badge be achieved?
+* <strong>Relevant</strong> - is this badge worth earning?
+* <strong>Timely</strong> - should this badge expire after a certain period of time?
+
+In addition, you should think about 'trigger verbs' in the badge criteria. These are indicators of the level at which the badge is operating. A useful way of approaching this is using <a href="https://en.wikipedia.org/wiki/Bloom's_taxonomy">Bloom's Taxonomy</a> &mdash; especially if using a tool such as <a href="http://byrdseed.com/differentiator/">The Differentiator</a>.
+
+
+## Examples of good badge criteria
+
 <div style="background:#FFBC1A; padding:10px; padding-left:20px; color:white;">
 <h3>Is this page finished?</h3>
 <p>Why not help improve the course? <strong><a style="background:white; padding:2px;" href="https://github.com/thinkoutloudclub/badge-course/wiki/Help-improve-the-Open-Badges-101-course">Click here</a></strong></p>
 </div>
-

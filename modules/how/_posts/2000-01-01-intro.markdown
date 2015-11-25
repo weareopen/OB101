@@ -11,8 +11,6 @@ This module will help you take practical steps in issuing your first Open Badges
 
 By the end of this module you should:
 
-* **Know:** recognize the difference between different badge issuing platforms.
+* **Know:** recognize the difference between various badge issuing platforms.
 * **Do:** write good badge criteria.
 * **Reflect:** formulate an Open Badges proposal
-
-
