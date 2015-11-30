@@ -8,6 +8,7 @@ In this section you'll learn to **recognize the difference between various badge
 
 <img src="{{ site.baseurl }}/img/visual-thinkery/badge-platform-questions.png" alt="Badge platform questions">
 
+
 ## How the Open Badges infrastructure works
 The Open Badges Infrastructure is a decentralised, federated system. This can be a difficult concept to get your head around when you first start thinking about Open Badges.
 
@@ -25,7 +26,7 @@ The Badge Alliance provides a useful, regularly-updated <a href="http://www.badg
 ## Choosing an issuer
 There are many and varied use cases for Open Badges. There are also a lot of ways of issuing badges. On one end of the scale is building your own bespoke solution that hooks into the Open Badges API:
 
-<img src="{{ site.baseurl }}/img/badge-platform-options.jpg" alt="Placeholder for badge platform options">
+<img src="{{ site.baseurl }}/img/visual-thinkery/choose-badge-platform.png" alt="Choosing a badge platform">
 
 On the other end of the scale is using a fully hosted platform. In the middle is using software (free/proprietary) that you can host yourself. Each of these approaches has its benefits and drawbacks.
 
