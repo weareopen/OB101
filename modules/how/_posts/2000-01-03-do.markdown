@@ -9,7 +9,7 @@ In this section you will learn to **write good badge criteria**.
 
 
 
-<img src="{{ site.baseurl }}/img/visual-thinkery/prescriptive-descriptive.png" alt="Descriptive vs. Prescriptive pathways">
+<img src="{{ site.baseurl }}/img/visual-thinkery/badges-OB101.png" alt="Badge criteria">
 
 ## The importance of good criteria
 
@@ -40,8 +40,8 @@ Not all badges, however, involve cognitive skills. For these badges the trigger 
 
 Using the guidance above, let's attempt to create some Open Badges with good criteria.
 
-### Scenario 1: Community volunteer
-
+### Scenario 1: Community Volunteer
+<div style="float:right; padding-left:10px;"><img src="{{ site.baseurl }}/img/visual-thinkery/badge-community-volunteer.png" alt="Community Volunteer badge" width="200px"></div>
 A community group wants to recognise the efforts of its volunteers. These volunteers give their time, effort (and sometimes money) to help the cause. How could they credential this?
 
 This is a <strong>membership</strong> badge. It's awarded for belonging (and showing commitment) to a particular community.
@@ -64,9 +64,10 @@ To earn this badge, individuals must:
 
 This badge, along with community space booking privileges, expires one year after issue. Only unpaid hours count towards this badge.
 
+<hr />
 
-### Scenario 2: Basic digital skills
-
+### Scenario 2: Basic Digital Skills
+<div style="float:right; padding-left:10px;"><img src="{{ site.baseurl }}/img/visual-thinkery/badge-basic-skills.png" alt="Basic Digital Skills badge" width="200px"></div>
 A charity wants to create a benchmark for basic digital skills. They want to create a badge that demonstrates a particular skill level. How could they credential this?
 
 This is a <strong>capability</strong> badge. It's awarded when an individual reaches a pre-defined standard.
@@ -90,9 +91,10 @@ To earn this badge, individuals must:
 
 This badge demonstrates a basic digital skills capability as set out by the standard in force when the badge was issued. This may not be the current version of the Skills Standard.
 
+<hr />
 
 ### Scenario 3: Sales award
-
+<div style="float:right; padding-left:10px;"><img src="{{ site.baseurl }}/img/visual-thinkery/badge-100k-club.png" alt="Sales Award badge" width="200px"></div>
 An organisation wants to motivate its sales force by creating an annual award for its most effective employees. How could they credential this?
 
 This is a <strong>mastery</strong> badge. It's awarded when an individual demonstrates excellence.
@@ -116,9 +118,10 @@ To earn this badge, individuals must:
 
 In order to ensure this is an 'elite' badge, the criteria may change slightly on a yearly basis.
 
+<hr />
 
 ### Scenario 4: Event attendance
-
+<div style="float:right; padding-left:10px;"><img src="{{ site.baseurl }}/img/visual-thinkery/badge-annual-conference.png" alt="Event Attendance badge" width="200px"></div>
 An NGO wants to provide a badge to prove that individuals attended a specific event. How could they credential this?
 
 This is a <strong>participation</strong> badge. It's awarded when an individual is involved in one or more activities.
