@@ -6,6 +6,9 @@ title: Introduction
 
 This section lists resources you may find helpful to continue your Open Badges journey!
 
+<img src="{{ site.baseurl }}/img/visual-thinkery/learning-technologist.png" alt="Creating courses, not dumping resources">
+
+
 ## I want to...
 * **read** some inspirational blog posts about the past, present, and future of Open Badges
 * **discover** some examples / case studies showing the effective use of Open Badges
