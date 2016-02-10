@@ -12,7 +12,8 @@ This section lists resources you may find helpful to continue your Open Badges j
 ## I want to...
 
 * [**read** some inspirational blog posts about the past, present, and future of Open Badges](#blogposts)
-* [**discover** some academic research and case studies about the effective use of Open Badges](#case-studies]
+* [**discover** some case studies about the effective use of Open Badges](#casestudies)
+* [**cite** academic papers that discuss the use of Open Badges](#research)
 * **keep** up-to-date by becoming involved in the Open Badges community
 * **access** resources that will help me get started with: 
      * designing Open Badges
@@ -39,8 +40,8 @@ The following are 'official' posts from the Open Badges team (2012-15) and the B
 * [Open Badges blog](http://openbadges.tumblr.com)
 
 
-<a name="case-studies"></a>
-## Research / Case studies
+<a name="casestudies"></a>
+## Case studies
 There are a number of case studies for Open Badges, mainly in education-related settings. Here is a selection:
 
 * [Jisc](http://www.rsc-scotland.org/?tag=open-badges)
@@ -51,6 +52,9 @@ There are a number of case studies for Open Badges, mainly in education-related 
      * [Providence After School Alliance](http://web.archive.org/web/20140312035600/http://www.reconnectlearning.org/wp-content/uploads/2014/02/pasa_case_study_final.pdf) (PDF)
      * [Young Adult Library Services Association](http://web.archive.org/web/20150627130509/http://www.reconnectlearning.org/wp-content/uploads/2014/01/YALSA_case_study_final.pdf) (PDF)
      * [University of California at Davis](http://web.archive.org/web/20151016214148/http://www.reconnectlearning.org/wp-content/uploads/2014/01/UC-Davis_case_study_final.pdf) (PDF)
+
+<a name="research"></a>
+## Research
 
 The following is a sample of the academic literature on Open Badges published since 2013. For papers published before this, see [HASTAC's annotated research bibliography](https://www.hastac.org/digital-badges-bibliography). All of the following are openly accessible (i.e. not behind publisher paywalls).
 
