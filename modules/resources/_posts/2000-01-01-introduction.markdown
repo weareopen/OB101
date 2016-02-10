@@ -73,6 +73,30 @@ The following is a sample of the academic literature on Open Badges published si
 ## Discuss
 Want to ask questions or have a conversation about Open Badges? Check out the Discuss tab at the top of this page, or [click here](http://badges.thinkoutloudclub.com/modules/discuss/discuss/).
 
+<a name="help"></a>
+## Additional help
+Over and above the help in this course, you may need more specific advice and guidance.
+
+### Designing Open Badges
+If you need more help than that which is provided on the [How can I create effective Open Badges?](http://badges.thinkoutloudclub.com/modules/how/do/) of this course, then check out the following:
+
+* *(coming soon!)*
+
+
+### Issuing Open Badges
+Once you've checked out the [How do I get started issuing Open Badges?](http://badges.thinkoutloudclub.com/modules/how/know/) part of this course, you may find these links useful;
+
+* *(coming soon!)*
+
+
+### Convincing people of the value of Open Badges
+
+* *(coming soon!)*
+
+### Planning a series of badges
+
+* *(coming soon!)*
+
 -----
 
 <div style="background:#FFBC1A; padding:10px; padding-left:20px; color:white;">
