@@ -12,7 +12,7 @@ This section lists resources you may find helpful to continue your Open Badges j
 ## I want to...
 
 * [**read** some inspirational blog posts about the past, present, and future of Open Badges](#blogposts)
-* **discover** some examples / case studies showing the effective use of Open Badges
+* [**discover** some academic research and case studies about the effective use of Open Badges](#case-studies]
 * **keep** up-to-date by becoming involved in the Open Badges community
 * **access** resources that will help me get started with: 
      * designing Open Badges
@@ -40,7 +40,7 @@ The following are 'official' posts from the Open Badges team (2012-15) and the B
 
 
 <a name="case-studies"></a>
-## Case studies
+## Research / Case studies
 There are a number of case studies for Open Badges, mainly in education-related settings. Here is a selection:
 
 * [Jisc](http://www.rsc-scotland.org/?tag=open-badges)
@@ -48,10 +48,22 @@ There are a number of case studies for Open Badges, mainly in education-related 
      * [Open Badge Adventure at Borders College](http://www.rsc-scotland.org/?p=2454)
      * [Replacing paper based certification of CPD activities with Open Badges at Borders College](http://www.rsc-scotland.org/?p=3805)
 * [Reconnect Learning](http://web.archive.org/web/20151020010224/http://www.reconnectlearning.org/case-studies) (via archive.org)
-     * [Providence After School Alliance](http://web.archive.org/web/20140312035600/http://www.reconnectlearning.org/wp-content/uploads/2014/02/pasa_case_study_final.pdf) *(PDF)*
-     * [Young Adult Library Services Association](http://web.archive.org/web/20150627130509/http://www.reconnectlearning.org/wp-content/uploads/2014/01/YALSA_case_study_final.pdf) *(PDF)*
-     * [University of California at Davis](http://web.archive.org/web/20151016214148/http://www.reconnectlearning.org/wp-content/uploads/2014/01/UC-Davis_case_study_final.pdf) *(PDF)*
+     * [Providence After School Alliance](http://web.archive.org/web/20140312035600/http://www.reconnectlearning.org/wp-content/uploads/2014/02/pasa_case_study_final.pdf) (PDF)
+     * [Young Adult Library Services Association](http://web.archive.org/web/20150627130509/http://www.reconnectlearning.org/wp-content/uploads/2014/01/YALSA_case_study_final.pdf) (PDF)
+     * [University of California at Davis](http://web.archive.org/web/20151016214148/http://www.reconnectlearning.org/wp-content/uploads/2014/01/UC-Davis_case_study_final.pdf) (PDF)
 
+The following is a sample of the academic literature on Open Badges published since 2013. For papers published before this, see [HASTAC's annotated research bibliography](https://www.hastac.org/digital-badges-bibliography). All of the following are openly accessible (i.e. not behind publisher paywalls).
+
+* Charleer, S., Klerkx, J., Odriozola, S., Luis, J., & Duval, E. (2013, December). Improving awareness and reflection through collaborative, interactive visualizations of badges. In ARTEL13: Proceedings of the 3rd Workshop on Awareness and Reflection in Technology-Enhanced Learning (Vol. 1103, pp. 69-81). CEUR-WS. ([PDF](https://lirias.kuleuven.be/bitstream/123456789/428175/1/ARTEL13_charleer.pdf))
+* Conrad, D. (2013). Assessment challenges in open learning: Way-finding, fork in the road, or end of the line?. Open Praxis, 5(1), 41-47. ([PDF](http://openpraxis.org/index.php/OpenPraxis/article/viewFile/17/2))
+* Cross, S., Whitelock, D., & Galley, R. (2014). The use, role and reception of open badges as a method for formative and summative reward in two Massive Open Online Courses. International Journal of e-Assessment, 4(1). ([PDF](http://oro.open.ac.uk/40593/1/__userdata_documents_sc8457_Documents_Assessment_Journal%20Paper%202014_Cross2014_UseRoleReceptionOfOpenBadges.pdf))
+* Friesen, N., & Wihak, C. (2013). From OER to PLAR: Credentialing for open education. PLA Inside Out: An International Journal on Theory, Research and Practice in Prior Learning Assessment, 2(1). ([PDF](http://www.plainsideout.org/index.php/home/article/viewFile/43/80))
+* Gibson, D., Ostashewski, N., Flintoff, K., Grant, S., & Knight, E. (2015). Digital badges in education. Education and Information Technologies, 20(2), 403-410. ([PDF](https://www.researchgate.net/profile/Kim_Flintoff2/publication/258839995_Digital_badges_in_education/links/0deec53c7e4c74fe28000000.pdf))
+* Glover, I., & Latif, F. (2013, June). Investigating perceptions and potential of open badges in formal higher education. In World Conference on Educational Multimedia, Hypermedia and Telecommunications (Vol. 2013, No. 1, pp. 1398-1402). ([PDF](http://www.editlib.org/p/112141/proceeding_112141.pdf))
+* Haug, S., Wodzicki, K., Cress, U., & Moskaliuk, J. (2014). Self-Regulated Learning in MOOCs: Do Open Badges and Certificates of Attendance Motivate Learners to Invest More. EMOOCs, 66-72. ([PDF](https://www.researchgate.net/profile/Anja_Lorenz/publication/263543544_Open_Online_Courses_in_the_context_of_higher_education_an_evaluation_of_a_German_cMOOC/links/54941c560cf2e1b6095f97bc.pdf#page=66))
+* Myllymäki, M., & Hakala, I. (2014). Open Badges in Higher Education. In EDULEARN14 Proceedings. 6th International Conference on Education and New Learning Technologies. IATED Academy. ([PDF](https://jyx.jyu.fi/dspace/bitstream/handle/123456789/45506/myllymakihakalaopenbadgesinhighereducation.pdf?sequence=1))
+* Randall, D. L., Harrison, J. B., & West, R. E. (2013). Giving credit where credit is due: Designing open badges for a technology integration course. TechTrends, 57(6), 88-95. ([PDF](https://helpified.s3.amazonaws.com/uploads/resources/file/18636/4827fe2495ddfd5b.pdf))*
+* Santos, C., Pedro, L., Almeida, S., & Aresta, M. (2014). Decentralized badges in educational contexts: the integration of open badges in sapo campus. Learning and Diversity in the Cities of the Future, 155. ([PDF](http://www.openeducationeuropa.eu/sites/default/files/asset/From-field_35_4.pdf))
 
 -----
 
