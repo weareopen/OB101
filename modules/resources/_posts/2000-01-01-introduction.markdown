@@ -43,10 +43,15 @@ The following are 'official' posts from the Open Badges team (2012-15) and the B
 ## Case studies
 There are a number of case studies for Open Badges, mainly in education-related settings. Here is a selection:
 
-* Jisc
+* [Jisc](http://www.rsc-scotland.org/?tag=open-badges)
      * [Using Open Badges to motivate participation and reward contribution in an online professional community (CompEdNet)](http://www.rsc-scotland.org/?p=1613)
      * [Open Badge Adventure at Borders College](http://www.rsc-scotland.org/?p=2454)
      * [Replacing paper based certification of CPD activities with Open Badges at Borders College](http://www.rsc-scotland.org/?p=3805)
+* [Reconnect Learning](http://web.archive.org/web/20151020010224/http://www.reconnectlearning.org/case-studies) (via archive.org)
+     * [Providence After School Alliance](http://web.archive.org/web/20140312035600/http://www.reconnectlearning.org/wp-content/uploads/2014/02/pasa_case_study_final.pdf) *(PDF)*
+     * [Young Adult Library Services Association](http://web.archive.org/web/20150627130509/http://www.reconnectlearning.org/wp-content/uploads/2014/01/YALSA_case_study_final.pdf) *(PDF)*
+     * [University of California at Davis](http://web.archive.org/web/20151016214148/http://www.reconnectlearning.org/wp-content/uploads/2014/01/UC-Davis_case_study_final.pdf) *(PDF)*
+
 
 -----
 
