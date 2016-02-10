@@ -2,48 +2,51 @@
 title: Introduction
 ---
 
-<h1>Resources</h1>
+# Resources
 
 This section lists resources you may find helpful to continue your Open Badges journey!
 
 <img src="{{ site.baseurl }}/img/visual-thinkery/learning-technologist.png" alt="Creating courses, not dumping resources">
 
 
-<h3>I want to...</h3>
-<ul>
-   <li><a href="#blogposts"><strong>read</strong> some inspirational blog posts about the past, present, and future of Open Badges</a></li>
-   <li><strong>discover</strong> some examples / case studies showing the effective use of Open Badges</li>
-   <li><strong>keep</strong> up-to-date by becoming involved in the Open Badges community</li>  
-   <li><strong>access</strong> resources that will help me get started with: 
-      <ul>
-         <li>designing Open Badges</li>
-         <li>issuing Open Badges</li>
-         <li>convincing people of the value of Open Badges</li>
-         <li>planning a series of badges</li>
-      </ul>   
-   <li><strong>connect</strong> with people who can help me with:
-      <ul>
-         <li>designing badges <em>(visuals, metadata, learning pathways, connecting to others in the ecosystem)</em></li>
-         <li>platforms <em>(build, buy, fork)</em></li>
-         <li>my event <em>(speaking, facilitation, workshops)</em></li>
-      </ul>   
-   <li><strong>find</strong> help writing badge related documents around:
-      <ul>
-         <li>funding</li>
-         <li>job description</li>
-         <li>campus policies</li>
-      </ul>   
-   <li><strong>earn</strong> more badges!</li>
-</ul>   
+## I want to...
+
+* [**read** some inspirational blog posts about the past, present, and future of Open Badges](#blogposts)
+* **discover** some examples / case studies showing the effective use of Open Badges
+* **keep** up-to-date by becoming involved in the Open Badges community
+* **access** resources that will help me get started with: 
+     * designing Open Badges
+     * issuing Open Badges
+     * convincing people of the value of Open Badges
+     * planning a series of badges
+* **connect** with people who can help me with:
+     * designing badges *(visuals, metadata, learning pathways, connecting to others in the ecosystem)*
+     * platforms *(build, buy, fork)*
+     * my event *(speaking, facilitation, workshops)*
+* **find** help writing badge related documents around:
+     * funding
+     * job description
+     * campus policies
+* **earn** more badges!
+
 
 -----
 <a name="blogposts"></a>
-<h3>Blog posts</h3>
+## Blog posts
 The following are 'official' posts from the Open Badges team (2012-15) and the Badge Alliance (2015+):
-<ul>
-   <li><a href="https://medium.com/badge-alliance">Badge Alliance blog</a></li>
-   <li><a href="http://openbadges.tumblr.com">Open Badges blog</a></li>
-</ul>   
+
+* [Badge Alliance blog](https://medium.com/badge-alliance)
+* [Open Badges blog](http://openbadges.tumblr.com)
+
+
+<a name="case-studies"></a>
+## Case studies
+There are a number of case studies for Open Badges, mainly in education-related settings. Here is a selection:
+
+* Jisc
+     * [Using Open Badges to motivate participation and reward contribution in an online professional community (CompEdNet)](http://www.rsc-scotland.org/?p=1613)
+     * [Open Badge Adventure at Borders College](http://www.rsc-scotland.org/?p=2454)
+     * [Replacing paper based certification of CPD activities with Open Badges at Borders College](http://www.rsc-scotland.org/?p=3805)
 
 -----
 
