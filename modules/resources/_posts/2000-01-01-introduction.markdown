@@ -15,7 +15,7 @@ This section lists resources you may find helpful to continue your Open Badges j
 * [**discover** some case studies about the effective use of Open Badges](#casestudies)
 * [**cite** academic papers that discuss the use of Open Badges](#research)
 * [**discuss** Open Badges with a community of like-minded people](#discuss)
-* **access** resources that will help me get started with: 
+* **access** additional help to get me started with: 
      * designing Open Badges
      * issuing Open Badges
      * convincing people of the value of Open Badges
@@ -66,7 +66,7 @@ The following is a sample of the academic literature on Open Badges published si
 * Glover, I., & Latif, F. (2013, June). Investigating perceptions and potential of open badges in formal higher education. In World Conference on Educational Multimedia, Hypermedia and Telecommunications (Vol. 2013, No. 1, pp. 1398-1402). ([PDF](http://www.editlib.org/p/112141/proceeding_112141.pdf))
 * Haug, S., Wodzicki, K., Cress, U., & Moskaliuk, J. (2014). Self-Regulated Learning in MOOCs: Do Open Badges and Certificates of Attendance Motivate Learners to Invest More. EMOOCs, 66-72. ([PDF](https://www.researchgate.net/profile/Anja_Lorenz/publication/263543544_Open_Online_Courses_in_the_context_of_higher_education_an_evaluation_of_a_German_cMOOC/links/54941c560cf2e1b6095f97bc.pdf#page=66))
 * Myllymäki, M., & Hakala, I. (2014). Open Badges in Higher Education. In EDULEARN14 Proceedings. 6th International Conference on Education and New Learning Technologies. IATED Academy. ([PDF](https://jyx.jyu.fi/dspace/bitstream/handle/123456789/45506/myllymakihakalaopenbadgesinhighereducation.pdf?sequence=1))
-* Randall, D. L., Harrison, J. B., & West, R. E. (2013). Giving credit where credit is due: Designing open badges for a technology integration course. TechTrends, 57(6), 88-95. ([PDF](https://helpified.s3.amazonaws.com/uploads/resources/file/18636/4827fe2495ddfd5b.pdf))*
+* Randall, D. L., Harrison, J. B., & West, R. E. (2013). Giving credit where credit is due: Designing open badges for a technology integration course. TechTrends, 57(6), 88-95. ([PDF](https://helpified.s3.amazonaws.com/uploads/resources/file/18636/4827fe2495ddfd5b.pdf))
 * Santos, C., Pedro, L., Almeida, S., & Aresta, M. (2014). Decentralized badges in educational contexts: the integration of open badges in sapo campus. Learning and Diversity in the Cities of the Future, 155. ([PDF](http://www.openeducationeuropa.eu/sites/default/files/asset/From-field_35_4.pdf))
 
 <a name="discuss"></a>
