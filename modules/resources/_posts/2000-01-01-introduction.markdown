@@ -14,7 +14,7 @@ This section lists resources you may find helpful to continue your Open Badges j
 * [**read** some inspirational blog posts about the past, present, and future of Open Badges](#blogposts)
 * [**discover** some case studies about the effective use of Open Badges](#casestudies)
 * [**cite** academic papers that discuss the use of Open Badges](#research)
-* **keep** up-to-date by becoming involved in the Open Badges community
+* [**discuss** Open Badges with a community of like-minded people](#discuss)
 * **access** resources that will help me get started with: 
      * designing Open Badges
      * issuing Open Badges
@@ -68,6 +68,10 @@ The following is a sample of the academic literature on Open Badges published si
 * Myllymäki, M., & Hakala, I. (2014). Open Badges in Higher Education. In EDULEARN14 Proceedings. 6th International Conference on Education and New Learning Technologies. IATED Academy. ([PDF](https://jyx.jyu.fi/dspace/bitstream/handle/123456789/45506/myllymakihakalaopenbadgesinhighereducation.pdf?sequence=1))
 * Randall, D. L., Harrison, J. B., & West, R. E. (2013). Giving credit where credit is due: Designing open badges for a technology integration course. TechTrends, 57(6), 88-95. ([PDF](https://helpified.s3.amazonaws.com/uploads/resources/file/18636/4827fe2495ddfd5b.pdf))*
 * Santos, C., Pedro, L., Almeida, S., & Aresta, M. (2014). Decentralized badges in educational contexts: the integration of open badges in sapo campus. Learning and Diversity in the Cities of the Future, 155. ([PDF](http://www.openeducationeuropa.eu/sites/default/files/asset/From-field_35_4.pdf))
+
+<a name="discuss"></a>
+## Discuss
+Want to ask questions or have a conversation about Open Badges? Check out the Discuss tab at the top of this page, or [click here](http://badges.thinkoutloudclub.com/modules/discuss/discuss/).
 
 -----
 
