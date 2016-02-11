@@ -33,7 +33,7 @@ This section lists resources you may find helpful to continue your Open Badges j
 
 -----
 <a name="blogposts"></a>
-## Blog posts
+### Blog posts
 The following are 'official' posts from the Open Badges team (2012-15) and the Badge Alliance (2015+):
 
 * [Badge Alliance blog](https://medium.com/badge-alliance)
@@ -41,7 +41,7 @@ The following are 'official' posts from the Open Badges team (2012-15) and the B
 
 
 <a name="casestudies"></a>
-## Case studies
+### Case studies
 There are a number of case studies for Open Badges, mainly in education-related settings. Here is a selection:
 
 * [Jisc](http://www.rsc-scotland.org/?tag=open-badges)
@@ -67,7 +67,7 @@ There are a number of case studies for Open Badges, mainly in education-related 
     
 
 <a name="research"></a>
-## Research
+### Research
 
 The following three places are currently the best places to go in order to find academic literature around Open Badges. Note that the term 'digital badges' is sometimes used instead in the research base.
 
@@ -77,11 +77,11 @@ The following three places are currently the best places to go in order to find 
 
 
 <a name="discuss"></a>
-## Discuss
+### Discuss
 Want to ask questions or have a conversation about Open Badges? Check out the Discuss tab at the top of this page, or [click here](http://badges.thinkoutloudclub.com/modules/discuss/discuss/).
 
 <a name="help"></a>
-## Additional help
+### Additional help
 Over and above the help in this course, you may need more specific advice and guidance.
 
 #### Designing Open Badges
