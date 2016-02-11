@@ -100,14 +100,13 @@ Once you've checked out the [How do I get started issuing Open Badges?](http://b
 Along with the Badge Alliance web page [Why Badges?](http://www.badgealliance.org/why-badges/), the following blog posts, presentations, and videos by members of the community do a good job of explaining the value of Open Badges:
 
 * [Build your training business with Open Badges eCredentials](https://littoraly.wordpress.com/2016/02/07/build-your-training-business-with-open-badges-ecredentials/) (Don Presant, blog post, February 2016)
-* [Cracking the credentialing club] (Carla Casilli, blog post, February 2016)
+* [Cracking the credentialing club](https://carlacasilli.wordpress.com/2016/02/05/cracking-the-credentialing-club/) (Carla Casilli, blog post, February 2016)
 * [The prestige of Open Badges - making the invisible manifest](https://www.youtube.com/watch?v=QczW2bezaLc) (Simone Ravaioli, video, November 2015)
 * [Open badges 2 years on - who's wearing them?](http://www.slideshare.net/totaralms/open-badges-2-years-on-whos-wearing-them) (Totara Learning, slides, October 2015)
 * [The three biggest (perceived) problems with Open Badges](http://dougbelshaw.com/blog/2015/04/16/three-biggest-problems-with-badges/) (Doug Belshaw, blog post, April 2015)
 * [What is a badge?](https://www.youtube.com/watch?v=HgLLq7ybDtc) (ChicagoArtDept, video, May 2013)
 * [10 Reasons Why People are NOT Using Open Badges](http://etale.org/main/2014/09/06/10-reasons-why-people-are-not-using-open-badges/) (Bernard Bull, blog post, September 2014)
 * [A Short Story about Open Badges](https://www.youtube.com/watch?v=Xc4xDgNbl6Y) (Chloe Varelidi, video, June 2013)
-* 
 
 #### Planning a series of badges
 
