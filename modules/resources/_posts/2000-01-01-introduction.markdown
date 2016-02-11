@@ -25,10 +25,10 @@ This section lists resources you may find helpful to continue your Open Badges j
      * [platforms *(build, buy, fork)*](#platforms)
      * [my event *(speaking, facilitation, workshops)*](#events)
 * [**find** help writing badge related documents around:](#find)
-     * funding
-     * job description
-     * campus policies
-* **earn** more badges!
+     * [funding](#funding)
+     * [job description](#jobs)
+     * [campus policies](#policies)
+* [**earn** more badges!](#earn)
 
 
 -----
@@ -141,7 +141,7 @@ If you need specific expertise around certain elements of Open Badges, the follo
 * *(coming soon!)*
 
 <a name="find"></a>
-<h2>Find help writing badge-related documents</h3>
+<h2>Find help writing badge-related documents</h2>
 
 * *(coming soon!)*
 
