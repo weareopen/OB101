@@ -15,15 +15,15 @@ This section lists resources you may find helpful to continue your Open Badges j
 * [**discover** some case studies about the effective use of Open Badges](#casestudies)
 * [**cite** academic papers that discuss the use of Open Badges](#research)
 * [**discuss** Open Badges with a community of like-minded people](#discuss)
-* **access** additional help to get me started with: 
+* [**access** additional help to get me started with:](#help)
      * [designing Open Badges](#designing)
      * [issuing Open Badges](#issuing)
      * [convincing people of the value of Open Badges](#convincing)
      * [planning a series of badges](#planning)
-* **connect** with people who can help me with:
-     * designing badges *(visuals, metadata, learning pathways, connecting to others in the ecosystem)*
-     * platforms *(build, buy, fork)*
-     * my event *(speaking, facilitation, workshops)*
+* [**connect** with expertise in:](#connect)
+     * [designing badges *(visuals, metadata, learning pathways, connecting to others in the ecosystem)*](#design)
+     * [platforms *(build, buy, fork)*](#platforms)
+     * [my event *(speaking, facilitation, workshops)*](#events)
 * **find** help writing badge related documents around:
      * funding
      * job description
@@ -80,6 +80,7 @@ The following three places are currently the best places to go in order to find 
 <h2>Discuss</h2>
 Want to ask questions or have a conversation about Open Badges? Check out the Discuss tab at the top of this page, or [click here](http://badges.thinkoutloudclub.com/modules/discuss/discuss/).
 
+<a name="help"></a>
 <h2>Additional help</h2>
 Over and above the help in this course, you may need more specific advice and guidance.
 
@@ -120,6 +121,24 @@ In addition to the information in this course ([Why use badge pathways?](http://
      * [Badge pathways: part 2, the “quel”](https://carlacasilli.wordpress.com/2013/04/28/badge-pathways-part-2-the-quel/)
 * [A Flâneurs Thoughts on OpenBadges Pathways](http://chloeatplay.tumblr.com/post/55901798994/a-fl%C3%A2neurs-thoughts-on-openbadges-pathways)(Chloe Varelidi, 2013)
 
+<a name="connect"></a>
+<h2>Connect</h2>
+If you need specific expertise around certain elements of Open Badges, the following sections are where you can find people and organisations who can help.
+
+<a name="design"></a>
+<h4>Designing badges</h4>
+
+* *(coming soon!)*
+
+<a name="platforms"></a>
+<h4>Platforms</h4>
+
+* *(coming soon!)*
+
+<a name="events"></a>
+<h4>My event</h4>
+
+* *(coming soon!)*
 
 -----
 
