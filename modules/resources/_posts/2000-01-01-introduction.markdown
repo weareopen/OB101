@@ -9,7 +9,7 @@ This section lists resources you may find helpful to continue your Open Badges j
 <img src="{{ site.baseurl }}/img/visual-thinkery/learning-technologist.png" alt="Creating courses, not dumping resources">
 
 
-### I want to...
+<h2>I want to...</h2>
 
 * [**read** some inspirational blog posts about the past, present, and future of Open Badges](#blogposts)
 * [**discover** some case studies about the effective use of Open Badges](#casestudies)
@@ -33,7 +33,7 @@ This section lists resources you may find helpful to continue your Open Badges j
 
 -----
 <a name="blogposts"></a>
-### Blog posts
+<h2>Blog posts</h2>
 The following are 'official' posts from the Open Badges team (2012-15) and the Badge Alliance (2015+):
 
 * [Badge Alliance blog](https://medium.com/badge-alliance)
@@ -41,7 +41,7 @@ The following are 'official' posts from the Open Badges team (2012-15) and the B
 
 
 <a name="casestudies"></a>
-### Case studies
+<h2>Case studies</h2>
 There are a number of case studies for Open Badges, mainly in education-related settings. Here is a selection:
 
 * [Jisc](http://www.rsc-scotland.org/?tag=open-badges)
@@ -67,7 +67,7 @@ There are a number of case studies for Open Badges, mainly in education-related 
     
 
 <a name="research"></a>
-### Research
+<h2>Research</h2>
 
 The following three places are currently the best places to go in order to find academic literature around Open Badges. Note that the term 'digital badges' is sometimes used instead in the research base.
 
@@ -77,26 +77,26 @@ The following three places are currently the best places to go in order to find 
 
 
 <a name="discuss"></a>
-### Discuss
+<h2>Discuss</h2>
 Want to ask questions or have a conversation about Open Badges? Check out the Discuss tab at the top of this page, or [click here](http://badges.thinkoutloudclub.com/modules/discuss/discuss/).
 
 <a name="help"></a>
-### Additional help
+<h2>Additional help</h2>
 Over and above the help in this course, you may need more specific advice and guidance.
 
-#### Designing Open Badges
+<h4>Designing Open Badges</h4>
 If you need more help than that which is provided on the [How can I create effective Open Badges?](http://badges.thinkoutloudclub.com/modules/how/do/) of this course, then check out the following:
 
 * [A Foundational Badge System Design] (Carla Casilli, blog post, March 2014)
 
 
-#### Issuing Open Badges
+<h4>Issuing Open Badges</h4>
 Once you've checked out the [How do I get started issuing Open Badges?](http://badges.thinkoutloudclub.com/modules/how/know/) part of this course, you may find these links useful:
 
 * *(coming soon!)*
 
 
-#### Convincing people of the value of Open Badges
+<h4>Convincing people of the value of Open Badges</h4>
 Along with the Badge Alliance web page [Why Badges?](http://www.badgealliance.org/why-badges/), the following blog posts, presentations, and videos by members of the community do a good job of explaining the value of Open Badges:
 
 * [Build your training business with Open Badges eCredentials](https://littoraly.wordpress.com/2016/02/07/build-your-training-business-with-open-badges-ecredentials/) (Don Presant, blog post, February 2016)
@@ -108,7 +108,7 @@ Along with the Badge Alliance web page [Why Badges?](http://www.badgealliance.or
 * [10 Reasons Why People are NOT Using Open Badges](http://etale.org/main/2014/09/06/10-reasons-why-people-are-not-using-open-badges/) (Bernard Bull, blog post, September 2014)
 * [A Short Story about Open Badges](https://www.youtube.com/watch?v=Xc4xDgNbl6Y) (Chloe Varelidi, video, June 2013)
 
-#### Planning a series of badges
+<h4>Planning a series of badges</h4>
 
 * *(coming soon!)*
 
