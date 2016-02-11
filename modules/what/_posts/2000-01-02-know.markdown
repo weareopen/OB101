@@ -50,8 +50,8 @@ There are several important differences between digital badges and Open Badges:
 
 * **Open Badges are not controlled by any one organisation.** The technology that underpins the whole system (the Open Badges Infrastructure, or OBI) is a free, open-source and run for the world wide community.
 * **Open Badges are evidence-based.** The information about who, why, and for what the badge was issued is hard-coded into it as metadata.
-* **Open Badges are stackable.** Badges from one organisation's system can build upon ones from another system. This creates a rich ecosystem that individuals can use to build the story of their skills, knowledge, and experience.
-* **Open Badges are transferable.** The place that badges are collected is known as a 'backpack'. Although [Mozilla's reference badge backpack](http://backpack.openbadges.org) is often used as the default place to send badges, they can be stored anywhere &mdash; including on your own computer, if you prefer.
+* **Open Badges are stackable.** Badges from one organisation's system can build upon ones from another system. This creates a rich ecosystem that individuals can use to build the story of their skills, knowledge, and experience. 
+* **Open Badges are transferable.** Badges earned in one environment can be shared in another. Although [Mozilla's badge backpack](http://backpack.openbadges.org) is often used as the default place to send badges, they can be stored anywhere &mdash; including on your own computer, if you prefer.
 * **Open Badges put the user in control.** Badges are private until they are published by the user. They provide an easy way to show a portfolio of skills without third parties having to wade through a mountain of data.
 
 The OBI allows any organisation to build upon a secure yet open foundation. Potential **badge issuers** can be assured that the credentials they issue will be displayable anywhere on the web. **Badge earners** gain the advantage of being able to collect and curate their knowledge, skills, and experience from across the web in one place. And **badge 'consumers'** can trust that the badges shown to them can be verified and trusted.
