@@ -52,6 +52,19 @@ There are a number of case studies for Open Badges, mainly in education-related 
      * [Providence After School Alliance](http://web.archive.org/web/20140312035600/http://www.reconnectlearning.org/wp-content/uploads/2014/02/pasa_case_study_final.pdf) (PDF)
      * [Young Adult Library Services Association](http://web.archive.org/web/20150627130509/http://www.reconnectlearning.org/wp-content/uploads/2014/01/YALSA_case_study_final.pdf) (PDF)
      * [University of California at Davis](http://web.archive.org/web/20151016214148/http://www.reconnectlearning.org/wp-content/uploads/2014/01/UC-Davis_case_study_final.pdf) (PDF)
+* [Open Badges in Higher Education working group](https://sites.google.com/site/openbadgesinhighereducation/case-studies)
+     * [All Aboard, Ireland](https://sites.google.com/site/openbadgesinhighereducation/All-Aboard-Ireland) (digital skills)
+     * [Beuth University](https://sites.google.com/site/openbadgesinhighereducation/beuth-university) (migrant academics)
+     * [Colorado State University](https://sites.google.com/site/openbadgesinhighereducation/colorado-state-university) (CSULogic)
+     * [CyberCourse](https://sites.google.com/site/openbadgesinhighereducation/cybercourse) (Open Source software)
+     * [Deakin Digital](https://sites.google.com/site/openbadgesinhighereducation/deakin-digital) (digital credentials)
+     * [Georgia Southern University](https://sites.google.com/site/openbadgesinhighereducation/georgia-southern-university) (public school teachers)
+     * [National Science Teachers Association](https://sites.google.com/site/openbadgesinhighereducation/national-science-teachers-association) (learning center)
+     * [Pennsylvania State Library](https://sites.google.com/site/openbadgesinhighereducation/penn-state-library) (information literacy)
+     * [Pittsburgh City of Learning](https://sites.google.com/site/openbadgesinhighereducation/the-sprout-fund) (sprout fund)
+     * [Swinburne University](https://sites.google.com/site/openbadgesinhighereducation/swinburne-university-of-technology-australia) (MOOC)
+     * [Wonderlic Inc.](https://sites.google.com/site/openbadgesinhighereducation/wonderlic-inc) (vocational proficiency)
+    
 
 <a name="research"></a>
 ## Research
@@ -77,25 +90,27 @@ Want to ask questions or have a conversation about Open Badges? Check out the Di
 ## Additional help
 Over and above the help in this course, you may need more specific advice and guidance.
 
-### Designing Open Badges
+#### Designing Open Badges
 If you need more help than that which is provided on the [How can I create effective Open Badges?](http://badges.thinkoutloudclub.com/modules/how/do/) of this course, then check out the following:
 
 * *(coming soon!)*
 
 
-### Issuing Open Badges
+#### Issuing Open Badges
 Once you've checked out the [How do I get started issuing Open Badges?](http://badges.thinkoutloudclub.com/modules/how/know/) part of this course, you may find these links useful;
 
 * *(coming soon!)*
 
 
-### Convincing people of the value of Open Badges
+#### Convincing people of the value of Open Badges
 
 * *(coming soon!)*
 
-### Planning a series of badges
+#### Planning a series of badges
 
 * *(coming soon!)*
+
+
 
 -----
 
