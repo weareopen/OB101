@@ -41,9 +41,10 @@ While digital badges can be an extremely effective way to 'gamify' user experien
 </div>
 As indicated in the quote taken from the Badge Alliance website above, Open Badges take digital badges one step further. They are more suitable to be used as credentials as they have information about the learning experience baked in. Open Badges can be validated by anyone wanting to check up on an individual's claim to knowledge or skills.
 
+Unlike digital badges, users can take their Open Badges can display them anywhere across the web. Open Badges are <em>portable</em> credentials. This works in a similar way to videos from YouTube being embedded on blogs, wikis, and other websites. Collections of badges &mdash; which may feature some from two or more different organisations &mdash; can be displayed in a way that makes sense to the user.
+
 <img width="100%" src="{{ site.baseurl }}/img/open-badges-thinkerer.png" alt="Metadata in Open Badge">
 
-Unlike digital badges, users can take their Open Badges can display them anywhere across the web. This works in a similar way to videos from YouTube being embedded on blogs, wikis, and other websites. Collections of badges &mdash; which may feature some from two or more different organisations &mdash; can be displayed in a way that makes sense to the user.
 
 There are several important differences between digital badges and Open Badges:
 
