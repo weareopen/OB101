@@ -16,10 +16,10 @@ This section lists resources you may find helpful to continue your Open Badges j
 * [**cite** academic papers that discuss the use of Open Badges](#research)
 * [**discuss** Open Badges with a community of like-minded people](#discuss)
 * **access** additional help to get me started with: 
-     * designing Open Badges
-     * issuing Open Badges
-     * convincing people of the value of Open Badges
-     * planning a series of badges
+     * [designing Open Badges](#designing)
+     * [issuing Open Badges](#issuing)
+     * [convincing people of the value of Open Badges](#convincing)
+     * [planning a series of badges](#planning)
 * **connect** with people who can help me with:
      * designing badges *(visuals, metadata, learning pathways, connecting to others in the ecosystem)*
      * platforms *(build, buy, fork)*
@@ -80,22 +80,22 @@ The following three places are currently the best places to go in order to find 
 <h2>Discuss</h2>
 Want to ask questions or have a conversation about Open Badges? Check out the Discuss tab at the top of this page, or [click here](http://badges.thinkoutloudclub.com/modules/discuss/discuss/).
 
-<a name="help"></a>
 <h2>Additional help</h2>
 Over and above the help in this course, you may need more specific advice and guidance.
 
+<a name="designing"></a>
 <h4>Designing Open Badges</h4>
 If you need more help than that which is provided on the [How can I create effective Open Badges?](http://badges.thinkoutloudclub.com/modules/how/do/) of this course, then check out the following:
 
-* [A Foundational Badge System Design] (Carla Casilli, blog post, March 2014)
+* [A Foundational Badge System Design](Carla Casilli, blog post, March 2014)
 
-
+<a name="issuing"></a>
 <h4>Issuing Open Badges</h4>
 Once you've checked out the [How do I get started issuing Open Badges?](http://badges.thinkoutloudclub.com/modules/how/know/) part of this course, you may find these links useful:
 
 * *(coming soon!)*
 
-
+<a name="convincing"></a>
 <h4>Convincing people of the value of Open Badges</h4>
 Along with the Badge Alliance web page [Why Badges?](http://www.badgealliance.org/why-badges/), the following blog posts, presentations, and videos by members of the community do a good job of explaining the value of Open Badges:
 
@@ -108,10 +108,17 @@ Along with the Badge Alliance web page [Why Badges?](http://www.badgealliance.or
 * [10 Reasons Why People are NOT Using Open Badges](http://etale.org/main/2014/09/06/10-reasons-why-people-are-not-using-open-badges/) (Bernard Bull, blog post, September 2014)
 * [A Short Story about Open Badges](https://www.youtube.com/watch?v=Xc4xDgNbl6Y) (Chloe Varelidi, video, June 2013)
 
+<a name="planning"></a>
 <h4>Planning a series of badges</h4>
+In addition to the information in this course ([Why use badge pathways?](http://badges.thinkoutloudclub.com/modules/why/do/)) the following is likely to be of use:
 
-* *(coming soon!)*
-
+* [Digital Literacies, Learning Pathways & Open Badges](http://www.slideshare.net/dajbelshaw/digital-literacies-learning-pathways-open-badges) (Doug Belshaw, slides, November 2015)
+* [Learning Pathways: Prescriptive or Descriptive?](http://dmlcentral.net/learning-pathways-descriptive-or-prescriptive/) (Doug Belshaw, blog post, January 2015)
+* Carla Casilli wrote a series of posts on this topic in 2013:
+     * [Badge pathways: part 0, the prequel](https://carlacasilli.wordpress.com/2013/12/02/badge-system-design-disjunctive-and-conjunctive-tasks/)
+     * [Badge pathways: part 1, the paraquel](https://carlacasilli.wordpress.com/2013/03/25/badge-pathways-part-1-the-paraquel/)
+     * [Badge pathways: part 2, the “quel”](https://carlacasilli.wordpress.com/2013/04/28/badge-pathways-part-2-the-quel/)
+* [A Flâneurs Thoughts on OpenBadges Pathways](http://chloeatplay.tumblr.com/post/55901798994/a-fl%C3%A2neurs-thoughts-on-openbadges-pathways)(Chloe Varelidi, 2013)
 
 
 -----
