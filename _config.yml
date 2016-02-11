@@ -1,6 +1,5 @@
 # basic configuration
 baseurl:
-kramdown
 permalink: /:categories/:title/
 
 # Change this tracking code with your own tracking code
