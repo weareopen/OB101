@@ -1,6 +1,7 @@
 # basic configuration
 baseurl:
 markdown: kramdown
+highlighter: rouge
 permalink: /:categories/:title/
 
 # Change this tracking code with your own tracking code
