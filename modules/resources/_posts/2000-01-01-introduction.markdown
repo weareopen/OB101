@@ -24,7 +24,7 @@ This section lists resources you may find helpful to continue your Open Badges j
      * [designing badges *(visuals, metadata, learning pathways, connecting to others in the ecosystem)*](#design)
      * [platforms *(build, buy, fork)*](#platforms)
      * [my event *(speaking, facilitation, workshops)*](#events)
-* **find** help writing badge related documents around:
+* [**find** help writing badge related documents around:](#find)
      * funding
      * job description
      * campus policies
@@ -139,6 +139,35 @@ If you need specific expertise around certain elements of Open Badges, the follo
 <h4>My event</h4>
 
 * *(coming soon!)*
+
+<a name="find"></a>
+<h2>Find help writing badge-related documents</h3>
+
+* *(coming soon!)*
+
+<a name="funding"></a>
+<h4>Funding</h4>
+
+* *(coming soon!)*
+
+
+<a name="jobs"></a>
+<h4>Job descriptions</h4>
+
+* *(coming soon!)*
+
+
+<a name="policies"></a>
+<h4>Campus policies</h4>
+
+* *(coming soon!)*
+
+
+<a name="earn"></a>
+<h2>Earn more badges!</h2>
+
+* *(coming soon!)*
+
 
 -----
 
