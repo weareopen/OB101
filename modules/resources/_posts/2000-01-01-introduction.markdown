@@ -165,8 +165,14 @@ If you need specific expertise around certain elements of Open Badges, the follo
 
 <a name="earn"></a>
 <h2>Earn more badges!</h2>
+There are thousands of badges available for individuals to earn. Some of these are free and open for anyone to achieve, some are heavily context-specific, and others may even have a cost attached to the assessment behind them. 
 
-* *(coming soon!)*
+The following are places you can go to earn some Open Badges:
+
+* [Badge Rank](https://badgerank.org/)
+* [iDEA Award](https://idea.org.uk/)
+* [Open Badge Academy](https://www.openbadgeacademy.com/)
+
 
 
 -----
