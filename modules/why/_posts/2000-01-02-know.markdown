@@ -35,7 +35,7 @@ Instead of working towards a single, large credential at the end of a multi-year
 <li>A professional may use Open badges from a wide variety of activities to demonstrate Continuing Professional Development (CPD)</li>
 </ul>
 
-<p>There are a multitude of ways Open Badges can be used in almost any context. The next module features a <a href="http://badges.thinkoutloudclub.com/modules/how/">taxonomy</a> of different types of badges that City & Guilds is using, but the only limit is your (collective) imagination!</p>
+<p>There are a multitude of ways Open Badges can be used in almost any context. The next module features a <a href="http://badges.thinkoutloudclub.com/modules/how/intro/">taxonomy</a> of different types of badges that City & Guilds is using, but the only limit is your (collective) imagination!</p>
 
 
 <div style="background:#FFBC1A; padding:10px; padding-left:20px; color:white;">
