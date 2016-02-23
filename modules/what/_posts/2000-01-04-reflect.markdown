@@ -51,7 +51,7 @@ Valid Open Badges contain metadata in the form of three core Badge Objects: **Is
 This is a collection of information about the person or organisation issuing the badge. Mandatory information includes the **name** of the person or organisation, along with a valid **URL**. Optional information can be included such as a **description** and/or **image** of the person or organisation issuing the badge, a contact **email address**, and a **revocation list** of badges that have since been revoked.
 
 ### Badge Classes
-The Badge Class includes mandatory information such as the **name** of the badge, a **description** of the badge, and the **image** representing the achievement. The **criteria** to met is also required, as is the name of the **issuer**. Optional information such as **alignment** to standards may be included, as can any **tags** that help discoverability.
+The Badge Class includes information about what the badge *represents*. The Badge Class includes mandatory information such as the **name** of the badge, a **description** of the badge, and the **image** representing the achievement. The **criteria** met is also required, as is the name of the **issuer**. Optional information such as **alignment** to standards may be included, as can any **tags** that help discoverability.
 
 ### Assertion
 This collection of information is what gives the OBI its rigour and verifiability. It gets very technical very quickly *(see the 'Going further' box below)* so the easiest way to explain this part is as follows. 
