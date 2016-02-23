@@ -24,6 +24,7 @@ To earn this badge, you'll need to write 250+ words on the following:
 
 You can write these words anywhere on the web - so a blog, a wiki, a Facebook page, anywhere with a public URL. It goes without saying you should use your own words, unless you're quoting (which doesn't count towards your 250 words!)
 
+Note that there will be a delay after you've submitted your 'project' and a human issues you the badge!
 
 ## Send your badge to the Mozilla backpack
 
