@@ -34,7 +34,7 @@ If the individual accepts the badge, then they have the option to 'push' it to a
 Once the badge is in an individual's badge backpack, it is entirely private to them. No-one else can see it unless they choose to share it. They can do so by adding it to a collection and then displaying it anywhere on the web and/or social networks.
 
 ### Step 5
-As Open Badges are based on an open standard, they be issued from any site and put into collections that the user controls. The idea is that this will then paint a more holistic picture of the learner, unlocking new possibilities, job opportunities, and enabling true lifelong learning. 
+As Open Badges are based on an open standard, they can be issued from any site and put into collections that the user controls. The idea is that this will then paint a more holistic picture of the learner, unlocking new possibilities, job opportunities, and enabling true lifelong learning. 
 
 <br />
 
