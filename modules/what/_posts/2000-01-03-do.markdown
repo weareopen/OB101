@@ -34,7 +34,7 @@ What's a 'backpack'?
 
 There are generic instructions for how to push badges you earn around the web <a target="_blank" href="https://github.com/mozilla/openbadges-backpack/wiki/Share-your-Badges-with-the-Mozilla-Backpack">here</a>, but it's effectively a three stage process once you've been issued the badge via P2PU:
 
-1. Click on the 'Add to backpack' button on the [Open Badge Awareness page](http://badges.p2pu.org/en/badge/view/765/) at P2PU.
+1. Click on the 'Add to backpack' button on the <a href="http://badges.p2pu.org/en/badge/view/765/" target="_blank">Open Badge Awareness page</a> at P2PU.
 2. Login to your Mozilla Persona account *(you'll be prompted to create one if you don't already have one)*
 3. Accept the badge!
 
@@ -44,7 +44,7 @@ There are generic instructions for how to push badges you earn around the web <a
 
 Want to share your badge with the world? Follow these steps:
 
-1. Go to your [Mozilla backpack](http://backpack.openbadges.org)
+1. Go to your <a href="http://backpack.openbadges.org" target="_blank">Mozilla backpack</a>
 2. Click on the **Collections** tab at the top.
 3. Drag your Open Badge Awareness badge to a new collection (where it says **Drag a badge here**)
 4. Click the option to make the badge public.
