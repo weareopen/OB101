@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-![OB101 poster](http://badges.thinkoutloudclub.com/img/visual-thinkery/OB101-poster-small.png)
+<img style="float:left; padding-right:2%;" src="http://badges.thinkoutloudclub.com/img/visual-thinkery/OB101-poster-small.png" alt="OB101 poster" style="width: 200px;"/>
 
 ## So what's this course all about?
 
