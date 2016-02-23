@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-<img align=left src="{{ site.baseurl }}/img/visual-thinkery/OB101-poster-small.png" style="width:40%; margin-right:50px; margin-top: 10px; margin-bottom:40px">
+<img align=left src="http://badges.thinkoutloudclub.com/img/visual-thinkery/OB101-poster-small.png" style="width:40%; margin-right:50px; margin-top: 10px; margin-bottom:40px">
 
 ## So what's this course all about?
 
