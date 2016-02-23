@@ -3,8 +3,6 @@ layout: index
 published: true
 ---
 
-<img style="float:left; padding-right:2%;" src="http://badges.thinkoutloudclub.com/img/visual-thinkery/OB101-poster-small.png" alt="OB101 poster" style="width: 200px;"/>
-
 ## So what's this course all about?
 
 In this short course you'll get a chance to:
