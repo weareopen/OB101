@@ -142,8 +142,7 @@ If you need specific expertise around certain elements of Open Badges, the follo
 
 <a name="find"></a>
 <h2>Find help writing badge-related documents</h2>
-
-* *(coming soon!)*
+This section is for guidance around, and examples of, documents relating to badges for funding, jobs, and policies.
 
 <a name="funding"></a>
 <h4>Funding</h4>
