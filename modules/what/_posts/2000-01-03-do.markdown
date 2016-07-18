@@ -12,9 +12,9 @@ In this section you'll **earn your first Open Badge and 'push' it to a badge bac
 
 ## Earn your first badge
 
-<div style="float:right; padding-left:20px;"><a target="_blank" href="http://badges.p2pu.org/en/badge/view/765/"><img src="{{ site.baseurl }}/img/badge-awareness.png" width="125px" alt="Open Badge awareness badge"></a></div>
+<div style="float:right; padding-left:20px;"><a target="_blank" href="https://www.openbadgeacademy.com/badge/1112"><img src="{{ site.baseurl }}/img/badge-awareness.png" width="125px" alt="Open Badge awareness badge"></a></div>
 
-One of the best ways to learn how Open Badges work is to earn your first badge! In this section you'll apply for, and hopefully earn, the <a target="_blank" href="http://badges.p2pu.org/en/badge/view/765/">Open Badge Awareness badge</a>.
+One of the best ways to learn how Open Badges work is to earn your first badge! In this section you'll apply for, and hopefully earn, the <a target="_blank" href="https://www.openbadgeacademy.com/badge/1112">Open Badge Awareness badge</a>.
 
 To earn this badge, you'll need to write 250+ words on the following:
 
