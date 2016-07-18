@@ -6,11 +6,13 @@ published: true
 # What are Open Badges?
 <div class="bubble" style="text-align:left;">
 	<img class="person" src="{{ site.baseurl }}/img/edu-person.png">
-	Well, I sorta get it... </br>There's data baked inside the badge image, right?
+	Well, I sorta get it... <br>There's data baked inside the badge image, right?
 </div>
 This module explains what Open Badges are, who's behind them, and where they came from. 
 
-<img src="{{ site.baseurl }}/img/visual-thinkery/bluffers-guide.png" alt="A Bluffer's Guide to Open Badges">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AkSvzkGX0w8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<!-- <img src="{{ site.baseurl }}/img/visual-thinkery/bluffers-guide.png" alt="A Bluffer's Guide to Open Badges"> -->
 
 By the end of this module you should:
 
