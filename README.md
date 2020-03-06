@@ -2,6 +2,8 @@
 
 This will be an introductory course to Open Badges to help people get started issuing.
 
+In the meantime, you can access it here: https://weareopen.coop/OB101/
+
 You can help out by submitting issues or pull requests [here](https://github.com/weareopen/ob101/issues)!
  
 ---
